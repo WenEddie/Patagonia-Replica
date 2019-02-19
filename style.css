@@ -1,0 +1,26 @@
+.ui.borderless.topmenu.menu {
+  background-color: #222;
+  font-size: 12px;
+
+}
+
+.ui.borderless.uppermenu.menu {
+  background-color: transparent;
+  color: black;
+  padding: 8px 60px;
+  font-size: 14px;
+  line-height: 44px;
+  text-align: center;
+  box-shadow: none;
+
+}
+
+.center-background {
+  text-align: center;
+  color: white;
+}
+
+.footer-background {
+  height: 70px;
+  padding: 10px 25px 10px 25px;
+}
